@@ -14,8 +14,7 @@ Activity - the 6 activities performed (walking, walking upstairs/downstairs, sit
 
 # Variables
 [1] "AngleTimeBodyodyAccelerometerJerkMeangravityMean_mean"
-
-[2] "AngleTimeBodyodyAccelerometerMeangravity_mean"        
+[ 2] "AngleTimeBodyodyAccelerometerMeangravity_mean"        
 [3] "AngleTimeBodyodyGryoscopeJerkMeangravityMean_mean"    
 [4] "AngleTimeBodyodyGryoscopeMeangravityMean_mean"        
 [5] "AngleXgravityMean_mean"                               
