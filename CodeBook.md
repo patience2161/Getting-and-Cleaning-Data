@@ -1,7 +1,7 @@
 # Code Book
 ## uciClean.R
 This code includes all mean and standard deviation variables from the original dataset.
-## tidy.txt
+## meanData.txt
 This file includes the averages of each activity for each participant.
 
 ## Description
