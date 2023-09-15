@@ -15,7 +15,6 @@ Activity - the 6 activities performed (walking, walking upstairs/downstairs, sit
 # Variables
 [1] "AngleTimeBodyodyAccelerometerJerkMeangravityMean_mean"
 
-
 [2] "AngleTimeBodyodyAccelerometerMeangravity_mean"        
 [3] "AngleTimeBodyodyGryoscopeJerkMeangravityMean_mean"    
 [4] "AngleTimeBodyodyGryoscopeMeangravityMean_mean"        
@@ -25,7 +24,6 @@ Activity - the 6 activities performed (walking, walking upstairs/downstairs, sit
 [8] "code"                                                 
 [9] "FrequencyBodyAccelerometerJerkMagnitudeMean_mean"     
 [10] "FrequencyBodyAccelerometerJerkMagnitudeMeanFreq_mean"
-
 
 
 [11] "FrequencyBodyAccelerometerJerkMagnitudeStd_mean"      
