@@ -4,15 +4,15 @@ This code includes all mean and standard deviation variables from the original d
 ## tidy.txt
 This file includes the averages of each activity for each participant.
 
-# Description
+## Description
 This data contains 180 rows and 89 columns.
-std means standard deviation
 
-# Activity and Subjects
+## Activity and Subjects
 Subject - There are 30 subjects/participants which is the first column merged from subject_test and subject_train variables. Each participant has an ID number.
 Activity - the 6 activities performed (walking, walking upstairs/downstairs, sitting, standing, laying)
 
-# Variables
+## Variables
+Note: std means standard deviation
 [1] "AngleTimeBodyodyAccelerometerJerkMeangravityMean_mean"
 [2] "AngleTimeBodyodyAccelerometerMeangravity_mean"        
 [3] "AngleTimeBodyodyGryoscopeJerkMeangravityMean_mean"    
