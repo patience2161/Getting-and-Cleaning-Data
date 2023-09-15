@@ -1,7 +1,7 @@
-## Code Book
-# r_analysis.R
+# Code Book
+## r_analysis.R
 This code includes all mean and standard deviation variables from the original dataset.
-# tidy.txt
+## tidy.txt
 This file includes the averages of each activity for each participant.
 
 # Description
