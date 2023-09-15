@@ -25,7 +25,6 @@ Activity - the 6 activities performed (walking, walking upstairs/downstairs, sit
 [9] "FrequencyBodyAccelerometerJerkMagnitudeMean_mean"     
 [10] "FrequencyBodyAccelerometerJerkMagnitudeMeanFreq_mean"
 
-
 [11] "FrequencyBodyAccelerometerJerkMagnitudeStd_mean"      
 [12] "FrequencyBodyAccelerometerJerkMeanFreqX_mean"         
 [13] "FrequencyBodyAccelerometerJerkMeanFreqY_mean"         
