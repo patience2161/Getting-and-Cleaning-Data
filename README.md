@@ -7,5 +7,5 @@ This data is derived from the UC Irvine Machine Learning Repository collected fr
 # uciClean.R File
 This code cleans and reorganizes the UC Irvine data by calling all the datasets, merging the datasets within one another, filtering out specific variables, renames the columns, and creates factors. This code uses the dplyr package heavily.
 
-# Tidy Dataset
+# meanData.txt file
 This .txt file contains the UC Irvine data that filters in only the mean and standard deviation data for each pariticipant's each six activities. It groups the data and finds the mean of each group for each subset.
