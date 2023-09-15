@@ -13,6 +13,8 @@ Activity - the 6 activities performed (walking, walking upstairs/downstairs, sit
 
 ## Variables
 Note: std means standard deviation
+
+
 [1] "AngleTimeBodyodyAccelerometerJerkMeangravityMean_mean"
 [2] "AngleTimeBodyodyAccelerometerMeangravity_mean"        
 [3] "AngleTimeBodyodyGryoscopeJerkMeangravityMean_mean"    
